@@ -30,6 +30,19 @@ LLMs can generate key insights (NX/UNHM CTPA and CTC projects)
 
 Need centralised guidance on approval of data-sharing between trusts for QIP - there is too much friction in sharing even anoymous data.
 
+Facets of demand that are not addressed in iReferCDS are:
+
+* Reinvestigation of known problems - the 3rd cauda equina MRI in the past month with two previous normals.  The 5th TVUS for pelvic pain in the last 5y
+
+* Multimodality imaging of the same problem.  Trying to get an answer when there is none or trimodality requesting at the same presentation
+
+* Non-coherent requesting.  The return of patients (particularly for MRI) is very common after the next team has visited the bedside.  If the stroke has not appeared on MRI then do MRI with contrast etc
+
+* Wastage of contrast media.  Enhanced imaging for no more reason than it is perceived to be the Rolls-Royce option.
+
+* Unnecessary follow ups.  The use of cross sectional imaging to follow up pneumonia to normality even when there is no concern about malignancy or where a simple film will do.
+
+
 ## Action - scaling
 
 Our approach needs to be network and nationally scalable.  Suggest a public repository of analysis scripts, and provision of help/coaching to get others able to replicate the approach.  [PenCHORD](https://arc-swp.nihr.ac.uk/research-and-implementation/research-teams/penchord/) have made a lot of material available.
