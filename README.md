@@ -61,5 +61,7 @@ Feed into updated national guidelines on acute pathways (NICE radiology subcommi
 
 Up the speed of dissemination of approved pathways, and the pace of change in general.
 
+CT brain is a significant resource drain, and outsourcing at night is expensive with little clinical return.  AI models used as triage agents could significantly reduce costs by time-shifting reporting.
+
 
 
