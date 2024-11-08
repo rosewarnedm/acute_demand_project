@@ -65,6 +65,8 @@ Feed into updated national guidelines on acute pathways (NICE radiology subcommi
 
 Up the speed of dissemination of approved pathways, and the pace of change in general.
 
+Simply stated pieces of knowledge if clinically validated (eg 'The D-dimer threshold could safely be increased to 700ng/mL for exclusion of pulmonary embolism') have both savings implications and workforce implications.  This particular nugget would save about £5 million pounds if uniformly implemented UK-wide and would relieve the burden of 5 WTE consultant radiologists.
+
 CT brain is a significant resource drain, and outsourcing at night is expensive with little clinical return.  AI models used as triage agents could significantly reduce costs by time-shifting reporting.
 
 
