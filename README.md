@@ -12,6 +12,10 @@ Every request contains a lot of latent information.
 * Who assessed the patient?
 * Who requested the examination and what support did they have?
 * What investigation was chosen?
+* What is the level of medical knowledge and logical consistency shown in the request?
+* What is the degree of professionalism and care taken in the request?
+* Is there a diagnostic question posed in the request?
+* Is there a management outcome dependent on the study result?
 * Who was involved in the justification of the study?
 * Who was it reported by? ST, cons or outsourced.
 * What did the examination show in the report?
